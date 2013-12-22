@@ -8,8 +8,12 @@ tables
 
 SMP Ontology:
 
+Terminologia Anatomica:
 Terms:              default_expression
-Relashionships:     default_relationship
+Relationships:     default_relationship
+
+Terminologia Histologica:
+Terms and relationships: thtree
 
 acknowledgements
 ================
