@@ -1,3 +1,4 @@
+
 smp
 ===
 
@@ -8,7 +9,9 @@ To help this project grow, please volunteer at http://sliced.ro
 data
 ====
 
-Data for SMP. License for data: ODbl ver. 1.0: http://opendatacommons.org/licenses/odbl/summary/
+Data for SMP. License for data:
+
+This SMP-Data is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/.
 
 tables
 ======
