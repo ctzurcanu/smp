@@ -1,7 +1,7 @@
 data
 ====
 
-Data for SMP. License for data: GPL v3: http://www.gnu.org/copyleft/gpl.html
+Data for SMP. License for data: ODbl ver. 1.0: http://opendatacommons.org/licenses/odbl/summary/
 
 tables
 ======
