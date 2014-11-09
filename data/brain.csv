@@ -1,3 +1,4 @@
+'term_id', 'parent_id', 'term'
 1, NULL ,'brain'
 2,1,'forebrain'
 3,2,'endbrain'
